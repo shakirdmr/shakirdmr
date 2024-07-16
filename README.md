@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Shakir Sajad! 👋
 
 I'm a passionate programmer specializing in the MERN stack, with a keen interest in building scalable web applications. Welcome to my GitHub profile!
 
@@ -31,15 +31,11 @@ Description of the project.
 ### [Project Name 2](link-to-project-2)
 Description of the project.
 
-### [Project Name 3](link-to-project-3)
-Description of the project.
-
-Feel free to explore more of my projects on [GitHub](https://github.com/your-username).
 
 ## 📫 Get in Touch
 
-- GitHub: [your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-profile/)
-- Email: [your-email@example.com]
+- GitHub: [shakirdmr](https://github.com/shakirdmr)
+- LinkedIn: [Shakir Sajad]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/shakirdmr/))
+- Email: [shakirsjd@gmail.com]
 
 Let's connect and collaborate on exciting projects!
