@@ -1,4 +1,4 @@
-# Hi there, I'm Shakir Sajad! 👋
+# Hi there, I'm Shakir Dmr! 👋
 
 I'm a passionate programmer specializing in the MERN stack, with a keen interest in building scalable web applications. Welcome to my GitHub profile!
 
