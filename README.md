@@ -1,5 +1,26 @@
 # Hi there, I'm **Shakir Dmr**! 👋
 
+CHEKOUT MY WORRRRRRRRK
+
+
+MAKE INVOICES IN SECONDS
+(https://www.invoicegpt.org/)
+
+CRUSH 10MB photo to 100KB (IMAGE COMPRESSION)
+(https://www.imagesmith.store/)
+
+
+GET YOUR SOFTWARE MADE BY MY ORGINIZATION
+(https://www.shitlabs.xyz/)
+
+
+
+CHECK ELECTRICITY USAGE COST
+(https://thesuperpower.vercel.app/)
+
+PREDICT BP STATUS
+(https://bpcheck.netlify.app/)
+
 I'm a passionate Full‑Stack Web Developer specializing in the **MERN stack**, building scalable and interactive web applications. Welcome to my GitHub profile!
 
 ---
