@@ -1,23 +1,23 @@
-# Hi, I’m Shakir Dmr 👋  
-Full-Stack Developer · MERN · Builder
+# Hi, I’m Shakir Sajad 👋  
+**Backend-Focused Full Stack Developer (MERN)**
 
-I build fast, practical web products — from MVPs to production-ready apps.
+I build **scalable backend systems** and **production-ready web applications** using Node.js, Express, and MongoDB, with React on the frontend when needed.
 
 ---
 
 ## 🔗 Live Projects
 
-- **SuperWaitlist** – Create a waitlist for any idea in seconds  
+- **SpaceSync** – Real-time chat application (MERN)  
+  Backend-first system with authentication, APIs, and persistent messaging  
+
+- **SuperWaitlist** – Early access & waitlist platform  
   https://www.superwaitlist.xyz/
 
-- **InvoiceGPT** – Generate invoices instantly  
+- **InvoiceGPT** – Instant invoice generation tool  
   https://www.invoicegpt.org/
 
-- **ImageSmith** – Compress 10MB images to ~100KB  
+- **ImageSmith** – High-compression image optimization tool  
   https://www.imagesmith.store/
-
-- **ShitLabs** – Software services & product studio  
-  https://www.shitlabs.xyz/
 
 - **Electricity Cost Calculator**  
   https://thesuperpower.vercel.app/
@@ -29,44 +29,55 @@ I build fast, practical web products — from MVPs to production-ready apps.
 
 ## 🚀 About Me
 
-- Full-stack web developer focused on **MERN**
-- Currently building **Unicon** — a clean, scalable MERN app
-- Learning **TypeScript** and **Next.js**
-- Interested in real-time apps, dashboards, auth systems, and SaaS MVPs
-- Open to collaboration and freelance work
+- Backend-focused full stack developer
+- Strong in **REST APIs, authentication, and database design**
+- Experience building systems used by **thousands of users**
+- Interested in **real-time systems, backend architecture, and SaaS MVPs**
+- Currently improving **TypeScript** and **Next.js**
+- Open to full-time roles and serious collaborations
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- React
-- Redux Toolkit
-- Tailwind CSS
-- shadcn/ui
-- Chakra UI
+### Backend
+- Node.js  
+- Express.js  
+- MongoDB  
+- REST APIs  
+- JWT Authentication  
+- Database Schema Design  
 
-**Backend**
-- Node.js
-- Express
-- MongoDB
-- JWT Authentication
+### Frontend
+- React.js  
+- JavaScript  
+- Redux Toolkit  
+- Tailwind CSS  
+- shadcn/ui  
+- Chakra UI  
 
-**Tools**
-- Git & GitHub
-- REST APIs
+### Languages
+- JavaScript  
+- C  
+- C++  
+- Java  
+- PHP  
+
+### Tools & Platforms
+- Git & GitHub  
+- Postman  
+- Vercel  
+- Netlify  
 
 ---
 
-## 📌 Featured Project
+## ⭐ Featured Project
 
-### **Unicon**
-A production-grade MERN application featuring:
-- Role-based authentication (JWT)
-- Real-time chat & inbox
-- Redux Toolkit state management
-- Theme toggle & shimmer loading UI
-- Search, filters, toasts & responsive design
+### **SpaceSync — Real-Time Chat Application**
+- Designed backend services using Node.js, Express, and MongoDB  
+- Implemented JWT-based authentication and secure REST APIs  
+- Built real-time messaging with reliable data persistence  
+- Integrated React frontend with scalable backend architecture  
 
 ---
 
@@ -78,4 +89,4 @@ A production-grade MERN application featuring:
 
 ---
 
-*Always building. Always shipping.*
+*Focused on building real systems — not demos.*
